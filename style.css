@@ -1,0 +1,7 @@
+body{
+  background-color: aquamarine;
+  font-size: 32px;
+  color: rebeccapurple;
+  display: flex;
+  justify-content: center;
+}
